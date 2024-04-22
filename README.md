@@ -18,4 +18,4 @@ Assim será possível abrir o seu dashboard na porta mencionada na inicialização
 
 PS: Achei que teria mais tempo mas não tive mais que poucas horas esse final de semana para realizar esse sistema, o Front não foi desenvolvido por esse motivo. Tentei inclusive fazer o mais compacto e específico possível nesse pouco tempo, sem me alongar em criar camadas em projetos diferentes, tentei deixar o mais organizado e de fácil manutenção possível no único projeto da Web Api.
 
-Não sei se será possível avaliar minha experiência com um projeto simples desse, porém estou aberto para qualquer dúvida decorrente da mesma.
+Não sei se será possível avaliar minha experiência com um projeto simples desse, porém estou aberto para qualquer dúvida decorrente do mesmo.
